@@ -1,3 +1,5 @@
+//find max number in given 3 number
+
 package first_program;
 
 public class Ex_third {
