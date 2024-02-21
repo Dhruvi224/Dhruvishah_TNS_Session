@@ -9,5 +9,8 @@ public class Ex_four {
 			System.out.println(i);
 			i++;
 	    }
+
+		// for(i=1;i<=10;i++)
+			// do{}while(i<=10)
 }
 }
